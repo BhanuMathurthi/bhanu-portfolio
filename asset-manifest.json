@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bhanu-portfolio/static/css/main.1274a96a.css",
+    "main.js": "/bhanu-portfolio/static/js/main.914e517e.js",
+    "static/js/787.f6909e30.chunk.js": "/bhanu-portfolio/static/js/787.f6909e30.chunk.js",
+    "static/media/imagegallery.png": "/bhanu-portfolio/static/media/imagegallery.fc7f5199b6ca43a8b652.png",
+    "static/media/Recipeapp.png": "/bhanu-portfolio/static/media/Recipeapp.383a0bb8eae9171391de.png",
+    "static/media/tinydogwebsite.PNG": "/bhanu-portfolio/static/media/tinydogwebsite.7fac899bba0b03e262ae.PNG",
+    "static/media/headerImg.png": "/bhanu-portfolio/static/media/headerImg.0fd7c9d4104253b4760d.png",
+    "static/media/addtocart.png": "/bhanu-portfolio/static/media/addtocart.28769bf6c05eb6ce6d19.png",
+    "static/media/saibhanuresume.pdf": "/bhanu-portfolio/static/media/saibhanuresume.6430d7ab5886594db581.pdf",
+    "static/media/Register.png": "/bhanu-portfolio/static/media/Register.6d20514fbb0815bd6a37.png",
+    "index.html": "/bhanu-portfolio/index.html",
+    "main.1274a96a.css.map": "/bhanu-portfolio/static/css/main.1274a96a.css.map",
+    "main.914e517e.js.map": "/bhanu-portfolio/static/js/main.914e517e.js.map",
+    "787.f6909e30.chunk.js.map": "/bhanu-portfolio/static/js/787.f6909e30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1274a96a.css",
+    "static/js/main.914e517e.js"
+  ]
+}
