@@ -21,7 +21,7 @@ export default function Projects() {
       <div className="container pb-5">
         <div className="row">
           <h2 className="fs-2 my-4 text-center text-primary">
-            Projects I've Built
+            <strong>Projects I've Built</strong>
           </h2>
           {projectData.map(createCard)}
         </div>

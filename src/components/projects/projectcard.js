@@ -23,7 +23,7 @@ export default function Projectcard({
               rel="noreferrer"
               className="btn btn-success"
             >
-              Project Repo
+              View Project
             </a>
           </div>
         </div>

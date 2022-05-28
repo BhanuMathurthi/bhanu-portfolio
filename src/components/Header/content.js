@@ -5,7 +5,10 @@ import DownloadResume from "./saibhanuresume.pdf";
 export default function Headercontent() {
   return (
     <>
-      <section className="bg-dark text-light p-5 p-lg-0 pt-lg-5 text-center text-sm-start">
+      <section
+        id="Header"
+        className="bg-dark text-light p-5 p-lg-0 pt-lg-5 text-center text-sm-start"
+      >
         <div className="container intro">
           <div className="d-sm-flex align-items-center justify-content-between">
             <div>
@@ -22,7 +25,7 @@ export default function Headercontent() {
               <div className="d-grid gap-2 d-md-flex justify-content-md-start">
                 <a
                   href="#contact"
-                  className="btn btn-primary btn-lg px-4 me-md-2"
+                  className="contactbutton btn btn-primary btn-lg px-4 me-md-2"
                   role="button"
                 >
                   Contact Me

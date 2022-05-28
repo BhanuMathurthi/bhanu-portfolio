@@ -1,5 +1,5 @@
 import "./App.css";
-import Navbar from "./components/Header/navbar";
+import Header from "./components/Header/navbar";
 import Headercontent from "./components/Header/content";
 import Education from "./components/About/education";
 import Projects from "./components/projects/ProjectMain";
@@ -11,9 +11,9 @@ import Footer from "./components/footer/footer";
 function App() {
   return (
     <div className="App">
-      <Navbar />
+      <Header />
       <Headercontent />
-      {/* <Education /> */}
+      <Education />
       <Skills />
       <Certification />
       <Projects />

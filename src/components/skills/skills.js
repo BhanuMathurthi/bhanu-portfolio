@@ -11,10 +11,10 @@ export default function Skills() {
     <section id="skills">
       <div className="container align-items-center justify-content-center py-10 mx-auto pb-5">
         <div className="row">
-          <h2 className="fs-2 pb-3 text-center text-primary">
-            Skills &amp; Technologies
+          <h2 className="fs-2 pb-3 mt-5 text-center text-primary">
+            <strong>Skills &amp; Technologies</strong>
           </h2>
-          <p className="lead">
+          <p>
             I am currently looking for the job in frontend development in entry
             level, I am proficient in below mentioned technologies
           </p>

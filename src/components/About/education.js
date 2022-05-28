@@ -6,7 +6,7 @@ export default function Education() {
       <section>
         <div className="container mt-5">
           <h2 className="fs-2 mb-4 text-primary">Education</h2>
-          <table className="table mb-5">
+          <table className="table table-responsive mb-5">
             <thead>
               <tr>
                 <th scope="col">Year of passing</th>

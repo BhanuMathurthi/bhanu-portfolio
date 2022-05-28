@@ -41,7 +41,9 @@ export default function ContactForm() {
 
   return (
     <section id="contact">
-      <h2 className="fs-2 text-center mb-5 text-primary">Contact Me</h2>
+      <h2 className="fs-2 text-center mb-5 text-primary">
+        <strong>Contact Me</strong>
+      </h2>
       <div className="container">
         <div className="row mb-5 d-flex align-items-center justify-content-center">
           <div

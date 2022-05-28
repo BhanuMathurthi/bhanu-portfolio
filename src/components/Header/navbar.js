@@ -2,11 +2,11 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
 
-export default function Navbar() {
+export default function Header() {
   return (
     <>
       <header id="title">
-        <nav className="navbar navbar-expand-lg bg-dark navbar-dark shadow-lg py-2 fixed-top">
+        <nav className="headernav navbar navbar-expand-lg bg-dark navbar-dark shadow-lg py-2 fixed-top">
           <div className="container">
             <a href="#" className="navbar-brand">
               Bhanu

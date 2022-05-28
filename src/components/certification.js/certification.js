@@ -6,7 +6,9 @@ export default function Certification() {
       <div className="container">
         <div className="row">
           <div className="col-md">
-            <h2 className="fs-2 mb-3 text-primary">Certifications</h2>
+            <h2 className="fs-2 mb-3 text-primary">
+              <strong>Certifications</strong>
+            </h2>
             <ul className="mb-5">
               <li className="mb-2">
                 I've completed my web development training on &nbsp;
