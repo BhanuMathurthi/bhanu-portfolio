@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bhanu-portfolio/static/css/main.392b46c5.css",
-    "main.js": "/bhanu-portfolio/static/js/main.9b9db913.js",
+    "main.css": "/bhanu-portfolio/static/css/main.61417876.css",
+    "main.js": "/bhanu-portfolio/static/js/main.dc3e05d5.js",
     "static/js/787.f6909e30.chunk.js": "/bhanu-portfolio/static/js/787.f6909e30.chunk.js",
     "static/media/imagegallery.png": "/bhanu-portfolio/static/media/imagegallery.fc7f5199b6ca43a8b652.png",
     "static/media/Recipeapp.png": "/bhanu-portfolio/static/media/Recipeapp.383a0bb8eae9171391de.png",
@@ -11,12 +11,12 @@
     "static/media/saibhanuresume.pdf": "/bhanu-portfolio/static/media/saibhanuresume.6430d7ab5886594db581.pdf",
     "static/media/Register.png": "/bhanu-portfolio/static/media/Register.6d20514fbb0815bd6a37.png",
     "index.html": "/bhanu-portfolio/index.html",
-    "main.392b46c5.css.map": "/bhanu-portfolio/static/css/main.392b46c5.css.map",
-    "main.9b9db913.js.map": "/bhanu-portfolio/static/js/main.9b9db913.js.map",
+    "main.61417876.css.map": "/bhanu-portfolio/static/css/main.61417876.css.map",
+    "main.dc3e05d5.js.map": "/bhanu-portfolio/static/js/main.dc3e05d5.js.map",
     "787.f6909e30.chunk.js.map": "/bhanu-portfolio/static/js/787.f6909e30.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.392b46c5.css",
-    "static/js/main.9b9db913.js"
+    "static/css/main.61417876.css",
+    "static/js/main.dc3e05d5.js"
   ]
 }
