@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bhanu-portfolio/static/css/main.c18d3739.css",
+    "main.css": "/bhanu-portfolio/static/css/main.c20203ed.css",
     "main.js": "/bhanu-portfolio/static/js/main.bd895467.js",
     "static/js/787.f6909e30.chunk.js": "/bhanu-portfolio/static/js/787.f6909e30.chunk.js",
     "static/media/imagegallery.png": "/bhanu-portfolio/static/media/imagegallery.fc7f5199b6ca43a8b652.png",
@@ -11,12 +11,12 @@
     "static/media/saibhanuresume.pdf": "/bhanu-portfolio/static/media/saibhanuresume.6430d7ab5886594db581.pdf",
     "static/media/Register.png": "/bhanu-portfolio/static/media/Register.6d20514fbb0815bd6a37.png",
     "index.html": "/bhanu-portfolio/index.html",
-    "main.c18d3739.css.map": "/bhanu-portfolio/static/css/main.c18d3739.css.map",
+    "main.c20203ed.css.map": "/bhanu-portfolio/static/css/main.c20203ed.css.map",
     "main.bd895467.js.map": "/bhanu-portfolio/static/js/main.bd895467.js.map",
     "787.f6909e30.chunk.js.map": "/bhanu-portfolio/static/js/787.f6909e30.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c18d3739.css",
+    "static/css/main.c20203ed.css",
     "static/js/main.bd895467.js"
   ]
 }
