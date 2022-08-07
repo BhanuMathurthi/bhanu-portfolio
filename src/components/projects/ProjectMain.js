@@ -2,15 +2,16 @@ import React from "react";
 import { projectData } from "./projectdata";
 import Projectcard from "./projectcard";
 
-function createCard({ id, imgURL, title, subtitle, description, link }) {
+function createCard({ id, imgURL, title, subtitle, description, projectrepo, view }) {
   return (
     <Projectcard
       key={id}
       images={imgURL}
       title={title}
       subtitle={subtitle}
-      escription={description}
-      link={link}
+      description={description}
+      projectrepo={projectrepo}
+      view={view}
     />
   );
 }

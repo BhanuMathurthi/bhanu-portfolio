@@ -9,7 +9,7 @@ export default function Education() {
             <strong>Education</strong>
           </h2>
           <table className="table table-responsive mb-5">
-            <thead>
+            <thead className="bg-dark text-white">
               <tr>
                 <th scope="col">Year of passing</th>
                 <th scope="col">Qualification</th>

@@ -15,7 +15,7 @@ export default function Headercontent() {
               <h1 className="display-5 fw-bold">
                 Hi, I'm <span className="text-warning">Sai Bhanu</span>
               </h1>
-              <h2 className="fs-3 lh-1 mb-3">I love to build amazing apps</h2>
+              <h2 className="fs-4 lh-1 mb-3">I love to build amazing apps</h2>
               <p className="lead my-4">
                 I'm very ambitious self taught developer looking for a role in
                 frontend development in a growing IT organisation with the

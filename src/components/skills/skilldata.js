@@ -1,27 +1,27 @@
 export const skilldatainfo = [
   {
     id: 1,
-    skill: "HTML5",
+    skill: "React.js",
   },
   {
     id: 2,
-    skill: "CSS3",
-  },
-  {
-    id: 3,
-    skill: "Bootstrap",
-  },
-  {
-    id: 4,
     skill: "JavaScript",
   },
   {
+    id: 3,
+    skill: "HTML5",
+  },
+  {
+    id: 4,
+    skill: "CSS3",
+  },
+  {
     id: 5,
-    skill: "React JS",
+    skill: "Bootstrap",
   },
   {
     id: 6,
-    skill: "Redux Basics",
+    skill: "Rest APIs",
   },
   {
     id: 7,
@@ -29,11 +29,11 @@ export const skilldatainfo = [
   },
   {
     id: 8,
-    skill: "API",
+    skill: "Git",
   },
   {
     id: 9,
-    skill: "Git",
+    skill: "Figma",
   },
   {
     id: 10,
