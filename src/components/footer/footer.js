@@ -6,7 +6,7 @@ import { faPhone, faEnvelope } from "@fortawesome/free-solid-svg-icons";
 export default function Footer() {
   return (
     <>
-      <footer className="p-5 bg-dark text-light position-relative">
+      <footer className="p-3 bg-dark text-light position-relative">
         <p className="fs-6 text-center mb-5">&copy; All rights reserved - 2022</p>
         <div className="container">
           <div className="row d-flex justify-content-center align-items-center">
