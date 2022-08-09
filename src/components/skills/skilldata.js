@@ -29,14 +29,18 @@ export const skilldatainfo = [
   },
   {
     id: 8,
-    skill: "Git",
+    skill: "SQL",
   },
   {
     id: 9,
-    skill: "Figma",
+    skill: "Git",
   },
   {
     id: 10,
+    skill: "Figma",
+  },
+  {
+    id: 11,
     skill: "Wordpress",
   },
 ];

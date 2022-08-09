@@ -8,7 +8,7 @@ export const projectData = [
   {
     id: "1",
     title: "React CRUD App with Rest API's  ",
-    subtitle: "React.js, node.js, MySQL, HTML5, CSS3, Bootstrap",
+    subtitle: "React.js, node.js, MySQL, Bootstrap",
     description:
       "Developed a React CRUD App for a Registration to create, read, update and delete users records in which the data is configured with MySQL",
     imgURL: ReadCrudwithMySQL,
@@ -18,7 +18,7 @@ export const projectData = [
   {
     id: "2",
     title: "Gallery App",
-    subtitle: "React",
+    subtitle: "React.JS, Bootstrap, Axios library, React-router, third-party API",
     description:
       "Developed a image gallery App with react js using a third party api which is used for user can search any image and then api will fetch back the images referred to that particular keyword",
     imgURL: imageGalleryApp,
@@ -28,7 +28,7 @@ export const projectData = [
   {
     id: "3",
     title: "Food Recipe App",
-    subtitle: "React",
+    subtitle: "React.JS, Bootstrap, Axios library, React-router, third-party API",
     description:
     "Developed a food recipe App with react js using a third party api which is used to user can search any dishes and then api fetches back that particular images",
     imgURL: foodRecipeApp,
@@ -38,7 +38,7 @@ export const projectData = [
   {
     id: "4",
     title: "Shopping Cart",
-    subtitle: "React and Redux",
+    subtitle: "React.JS, Redux, Bootstrap",
     description:
       "Developed an instant updating shopping cart feature with redux ",
     imgURL: shoppingCart,
