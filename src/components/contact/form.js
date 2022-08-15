@@ -41,8 +41,8 @@ export default function ContactForm() {
 
   return (
     <section id="contact">
-      <h2 className="fs-2 text-center mb-5 text-primary">
-        <strong>Contact Me</strong>
+      <h2 style={{ color: "#042D41" }} className="fs-2 text-center mb-5 fw-bold">
+        Contact Me
       </h2>
       <div className="container">
       <div className="row">

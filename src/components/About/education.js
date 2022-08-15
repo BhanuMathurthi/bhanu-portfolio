@@ -5,12 +5,13 @@ export default function Education() {
     <>
       <section>
         <div className="container">
-          <h2 className="fs-2 mt-4 mb-3 text-primary">
-            <strong>Education</strong>
-          </h2>
+          <h2 className="fs-2 mt-4 mb-3 fw-bold">Education</h2>
           <div className="table-responsive d-flex justify-content-center my-4">
             <table className="table">
-              <thead className="bg-dark text-white">
+              <thead
+                style={{ backgroundColor: "#042D41" }}
+                className="text-white"
+              >
                 <tr>
                   <th className="text-center" scope="col">
                     Year of passing
@@ -30,20 +31,26 @@ export default function Education() {
                 <tr>
                   <th scope="row">2016-2019</th>
                   <td className="text-center">Bachelor of Technology, JNTUK</td>
-                  <td className="text-center">Dadi institute of engineering and technology</td>
+                  <td className="text-center">
+                    Dadi institute of engineering and technology
+                  </td>
                   <td className="text-center">68.03</td>
                 </tr>
                 <tr>
                   <th scope="row">2013-2016</th>
                   <td className="text-center">Diploma, APSBTET</td>
-                  <td className="text-center">Dadi institute of engineering and technology</td>
+                  <td className="text-center">
+                    Dadi institute of engineering and technology
+                  </td>
                   <td className="text-center">83.34</td>
                 </tr>
                 <tr>
                   <th scope="row">2012-2013</th>
-                  <td className="text-center">SSC, Board of Secondary Education</td>
+                  <td className="text-center">
+                    SSC, Board of Secondary Education
+                  </td>
                   <td className="text-center">Zilla parishad high school</td>
-                  <td className="text-center" >7.5</td>
+                  <td className="text-center">7.5</td>
                 </tr>
               </tbody>
             </table>

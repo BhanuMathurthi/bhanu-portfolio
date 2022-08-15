@@ -2,7 +2,15 @@ import React from "react";
 import { projectData } from "./projectdata";
 import Projectcard from "./projectcard";
 
-function createCard({ id, imgURL, title, subtitle, description, projectrepo, view }) {
+function createCard({
+  id,
+  imgURL,
+  title,
+  subtitle,
+  description,
+  projectrepo,
+  view,
+}) {
   return (
     <Projectcard
       key={id}
@@ -21,8 +29,11 @@ export default function Projects() {
     <section id="projects">
       <div className="container pb-5">
         <div className="row">
-          <h2 className="fs-2 my-4 text-center text-primary">
-            <strong>Projects I've Built</strong>
+          <h2
+            style={{ color: "#042D41" }}
+            className="fs-2 my-4 text-center fw-bold"
+          >
+            Personal Projects
           </h2>
           {projectData.map(createCard)}
         </div>

@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="container">
           <div className="row d-flex justify-content-center align-items-center">
             <div class="col-md-6">
-              <h2 className="fs-5 mb-2 text-primary">Contact</h2>
+              <h2 className="fs-5 mb-3 text-primary">Contact</h2>
               <p>
                 <FontAwesomeIcon
                   style={{ fontSize: "13px" }}
@@ -40,7 +40,7 @@ export default function Footer() {
               </p>
             </div>
             <div className="col-md-4">
-              <h2 className="fs-5 mb-2 text-primary">Address:</h2>
+              <h2 className="fs-5 mb-3 text-primary">Address:</h2>
               <p>Visakhapatnam, 531002</p>
               <p>Andhra Pradesh, India</p>
             </div>

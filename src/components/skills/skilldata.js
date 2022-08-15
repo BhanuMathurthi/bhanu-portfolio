@@ -21,7 +21,7 @@ export const skilldatainfo = [
   },
   {
     id: 6,
-    skill: "Rest APIs",
+    skill: "API",
   },
   {
     id: 7,
@@ -29,7 +29,7 @@ export const skilldatainfo = [
   },
   {
     id: 8,
-    skill: "SQL",
+    skill: "MySQL",
   },
   {
     id: 9,

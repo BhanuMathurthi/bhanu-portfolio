@@ -6,8 +6,8 @@ export default function Certification() {
       <div className="container">
         <div className="row">
           <div className="col-md">
-            <h2 className="fs-2 mb-3 text-primary">
-              <strong>Certifications</strong>
+            <h2 style={{ color: "#042D41" }} className="fs-2 mb-3 fw-bold">
+              Certifications
             </h2>
             <ul className="mb-5">
               <li className="mb-2">

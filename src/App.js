@@ -6,7 +6,8 @@ import Projects from "./components/projects/ProjectMain";
 import Skills from "./components/skills/skills";
 import Certification from "./components/certification.js/certification";
 import ContactForm from "./components/contact/form";
-import Footer from "./components/footer/footer";
+import Footer from "./components/footer/footer"; 
+
 
 function App() {
   return (
