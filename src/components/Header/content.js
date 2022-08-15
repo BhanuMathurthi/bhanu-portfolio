@@ -93,7 +93,7 @@ export default function Headercontent() {
 
             <img
               src={HeroImg}
-              className="header-bannerimage img-fluid w-50 d-sm-block"
+              className="header-bannerimage img-fluid w-50 d-none d-sm-block"
               loading="lazy"
               alt="HeaderImage"
             />
