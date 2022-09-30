@@ -16,7 +16,7 @@ function App() {
       <Headercontent />
       <Education />
       <Skills />
-      <Certification />
+      {/* <Certification /> */}
       <Projects />
       <ContactForm />
       <Footer />

@@ -2,10 +2,6 @@ import React from "react";
 import { skilldatainfo } from "./skilldata";
 import Skillcard from "./skillcard";
 
-function createSkillcard(skillinfo) {
-  return <Skillcard key={skillinfo.id} skill={skillinfo.skill} />;
-}
-
 export default function Skills() {
   return (
     <section id="skills">
@@ -21,10 +17,11 @@ export default function Skills() {
             I am currently looking for the job in frontend development in entry
             level, I am proficient in below mentioned technologies
           </p>
-          {skilldatainfo.map(createSkillcard)}
+          {skilldatainfo.map((skillinfo) => (
+            <Skillcard key={skillinfo.id} skill={skillinfo.skill} />
+          ))}
         </div>
       </div>
-      {/* <Certification /> */}
     </section>
   );
 }
