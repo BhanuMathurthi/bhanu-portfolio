@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2f1846f2.css",
-    "main.js": "/portfolio/static/js/main.c6a53cba.js",
+    "main.css": "/portfolio/static/css/main.0dcc56c4.css",
+    "main.js": "/portfolio/static/js/main.c803032d.js",
     "static/media/imagegallery.png": "/portfolio/static/media/imagegallery.fc7f5199b6ca43a8b652.png",
     "static/media/Recipeapp.png": "/portfolio/static/media/Recipeapp.383a0bb8eae9171391de.png",
     "static/media/tinydogwebsite.PNG": "/portfolio/static/media/tinydogwebsite.7fac899bba0b03e262ae.PNG",
@@ -11,11 +11,11 @@
     "static/media/addtocart.png": "/portfolio/static/media/addtocart.28769bf6c05eb6ce6d19.png",
     "static/media/saibhanuresume.pdf": "/portfolio/static/media/saibhanuresume.6430d7ab5886594db581.pdf",
     "index.html": "/portfolio/index.html",
-    "main.2f1846f2.css.map": "/portfolio/static/css/main.2f1846f2.css.map",
-    "main.c6a53cba.js.map": "/portfolio/static/js/main.c6a53cba.js.map"
+    "main.0dcc56c4.css.map": "/portfolio/static/css/main.0dcc56c4.css.map",
+    "main.c803032d.js.map": "/portfolio/static/js/main.c803032d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f1846f2.css",
-    "static/js/main.c6a53cba.js"
+    "static/css/main.0dcc56c4.css",
+    "static/js/main.c803032d.js"
   ]
 }
