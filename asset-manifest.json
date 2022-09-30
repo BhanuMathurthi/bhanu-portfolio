@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.328dffbc.css",
-    "main.js": "/portfolio/static/js/main.5701cd04.js",
+    "main.js": "/portfolio/static/js/main.d4bc4409.js",
     "static/media/imagegallery.png": "/portfolio/static/media/imagegallery.fc7f5199b6ca43a8b652.png",
     "static/media/Recipeapp.png": "/portfolio/static/media/Recipeapp.383a0bb8eae9171391de.png",
     "static/media/tinydogwebsite.PNG": "/portfolio/static/media/tinydogwebsite.7fac899bba0b03e262ae.PNG",
@@ -12,10 +12,10 @@
     "static/media/saibhanuresume.pdf": "/portfolio/static/media/saibhanuresume.6430d7ab5886594db581.pdf",
     "index.html": "/portfolio/index.html",
     "main.328dffbc.css.map": "/portfolio/static/css/main.328dffbc.css.map",
-    "main.5701cd04.js.map": "/portfolio/static/js/main.5701cd04.js.map"
+    "main.d4bc4409.js.map": "/portfolio/static/js/main.d4bc4409.js.map"
   },
   "entrypoints": [
     "static/css/main.328dffbc.css",
-    "static/js/main.5701cd04.js"
+    "static/js/main.d4bc4409.js"
   ]
 }
