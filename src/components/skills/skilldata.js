@@ -41,7 +41,7 @@ export const skilldatainfo = [
   },
   {
     id: 11,
-    skill: "Git",
+    skill: "Git & Github",
   },
   {
     id: 12,
