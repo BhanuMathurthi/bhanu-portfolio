@@ -4,15 +4,12 @@ export default function Education() {
   return (
     <>
       <section>
-        <div className="container mt-4">
+        <div className="container mt-4 ">
           <h2 style={{ color: "#042D41" }} className="mb-4 fw-bold">
             Education
           </h2>
           <div className="">
-            <table
-              className="table table-responsive stripes"
-              style={{ width: "400px" }}
-            >
+            <table className="table table-responsive">
               <thead
                 className="fw-bold"
                 style={{ backgroundColor: "#042D41", color: "white" }}
