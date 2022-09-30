@@ -9,7 +9,7 @@ export default function Education() {
             Education
           </h2>
           <div className="">
-            <table className="table">
+            <table className="table table-responsive">
               <thead
                 className="fw-bold"
                 style={{ backgroundColor: "#042D41", color: "white" }}
