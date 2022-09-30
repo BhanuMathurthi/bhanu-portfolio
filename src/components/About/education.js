@@ -4,53 +4,41 @@ export default function Education() {
   return (
     <>
       <section>
-        <div className="container">
-          <h2 className="fs-2 mt-4 mb-3 fw-bold">Education</h2>
-          <div className="table-responsive d-flex justify-content-center my-4">
+        <div className="container mt-4">
+          <h2 style={{ color: "#042D41" }} className="mb-4 fw-bold">
+            Education
+          </h2>
+          <div className="">
             <table className="table">
               <thead
-                style={{ backgroundColor: "#042D41" }}
-                className="text-white"
+                className="fw-bold"
+                style={{ backgroundColor: "#042D41", color: "white" }}
               >
                 <tr>
-                  <th className="text-center" scope="col">
-                    Year of passing
-                  </th>
-                  <th className="text-center" scope="col">
-                    Qualification
-                  </th>
-                  <th className="text-center" scope="col">
-                    Name of the Institution
-                  </th>
-                  <th className="text-center" scope="col">
-                    Percentage/CGPA
-                  </th>
+                  <th scope="col">Year Of Passing</th>
+                  <th scope="col">Qualification</th>
+                  <th scope="col">Name Of The Institute</th>
+                  <th scope="col">Percentage/CGPA</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <th scope="row">2016-2019</th>
-                  <td className="text-center">Bachelor of Technology, JNTUK</td>
-                  <td className="text-center">
-                    Dadi institute of engineering and technology
-                  </td>
-                  <td className="text-center">68.03</td>
+                  <th scope="row">2019</th>
+                  <td>Bachelor of Technology, JNTUK</td>
+                  <td>Dadi institute of engineering and technology</td>
+                  <td>68.03%</td>
                 </tr>
                 <tr>
-                  <th scope="row">2013-2016</th>
-                  <td className="text-center">Diploma, APSBTET</td>
-                  <td className="text-center">
-                    Dadi institute of engineering and technology
-                  </td>
-                  <td className="text-center">83.34</td>
+                  <th scope="row">2016</th>
+                  <td> Diploma, APSBTET</td>
+                  <td>Dadi institute of engineering and technology</td>
+                  <td>83.31%</td>
                 </tr>
                 <tr>
-                  <th scope="row">2012-2013</th>
-                  <td className="text-center">
-                    SSC, Board of Secondary Education
-                  </td>
-                  <td className="text-center">Zilla parishad high school</td>
-                  <td className="text-center">7.5</td>
+                  <th scope="row">2013</th>
+                  <td>SSC, Board of Secondary Education</td>
+                  <td>Zilla parishad high school</td>
+                  <td>7.5</td>
                 </tr>
               </tbody>
             </table>

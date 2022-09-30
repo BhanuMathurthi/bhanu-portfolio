@@ -64,7 +64,6 @@ export default function Header() {
                     <FontAwesomeIcon
                       className="fs-3 text-white mx-2 nav-link"
                       icon={faLinkedin}
-                      // size="2x"
                     />
                   </a>
                 </li>

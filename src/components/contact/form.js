@@ -15,7 +15,7 @@ export default function ContactForm() {
   });
 
   const handleChange = (e) => {
-    setValues((values) => ({ ...values, [e.target.name]: e.target.value }));
+    setValues({ ...values, [e.target.name]: e.target.value });
   };
 
   function handleSubmit(e) {
@@ -41,75 +41,15 @@ export default function ContactForm() {
 
   return (
     <section id="contact">
-      <h2 style={{ color: "#042D41" }} className="fs-2 text-center mb-5 fw-bold">
+      <h2
+        style={{ color: "#042D41" }}
+        className="fs-2 text-center mb-5 fw-bold"
+      >
         Contact Me
       </h2>
       <div className="container">
-      <div className="row">
-        <div style={{height: "500px" }} className="col-md-6">
-        <iframe
-              style={{
-                width: "100%",
-                height: "100%",
-                maxWidth: "100%",
-                border: "0",
-                frameborder: "0",
-              }}
-              title="map"
-              className="absolute inset-0"
-              src="https://www.google.com/maps/embed/v1/place?q=anakapalli,+visakhapatnam&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
-            />
-        </div>
-        <div className="col-md-6">
-        <form
-              onSubmit={handleSubmit}
-              ref={form}
-              className="p-4 bg-light shadow p-3 my-5 rounded"
-              autoComplete="off"
-            >
-              <h3 className="text-center text-dark fs-3 my-3">
-                Send me a Message
-              </h3>
-              <div className="form-group mb-2 text-dark">
-                <InputField
-                  handleChange={handleChange}
-                  label="Full Name"
-                  name="fullname"
-                  type="text"
-                  value={values.fullname}
-                />
-                <InputField
-                  handleChange={handleChange}
-                  label="E-Mail"
-                  name="email"
-                  type="email"
-                  value={values.email}
-                />
-                <TextAreaField
-                  handleChange={handleChange}
-                  label="Your message here"
-                  name="message"
-                  value={values.message}
-                />
-                <div className="d-flex justify-content-center">
-                  <button type="submit" className="btn btn-success button">
-                    Send{" "}
-                    <FontAwesomeIcon
-                      style={{ fontSize: "13px" }}
-                      className="text-center mx-2"
-                      icon={faChevronRight}
-                    />
-                  </button>
-                </div>
-              </div>
-            </form>
-        </div>
-      </div>
-        {/* <div className="row mb-5 d-flex align-items-center justify-content-center">
-        <div
-            className="col-10 col-md-6 col-lg-6"
-            style={{ width: "500px", height: "500px" }}
-          >
+        <div className="row">
+          <div style={{ height: "500px" }} className="col-md-6">
             <iframe
               style={{
                 width: "100%",
@@ -123,7 +63,7 @@ export default function ContactForm() {
               src="https://www.google.com/maps/embed/v1/place?q=anakapalli,+visakhapatnam&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
             />
           </div>
-          <div className="col-10 col-md-6 col-lg-6 ">
+          <div className="col-md-6">
             <form
               onSubmit={handleSubmit}
               ref={form}
@@ -167,7 +107,7 @@ export default function ContactForm() {
               </div>
             </form>
           </div>
-        </div> */}
+        </div>
       </div>
     </section>
   );

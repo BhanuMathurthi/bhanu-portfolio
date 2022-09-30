@@ -1,13 +1,12 @@
 import "./App.css";
 import Header from "./components/Header/navbar";
 import Headercontent from "./components/Header/content";
-import Education from "./components/About/education";
 import Projects from "./components/projects/ProjectMain";
 import Skills from "./components/skills/skills";
 import Certification from "./components/certification.js/certification";
 import ContactForm from "./components/contact/form";
-import Footer from "./components/footer/footer"; 
-
+import Footer from "./components/footer/footer";
+import Education from "./components/About/education";
 
 function App() {
   return (
@@ -16,7 +15,7 @@ function App() {
       <Headercontent />
       <Education />
       <Skills />
-      {/* <Certification /> */}
+      <Certification />
       <Projects />
       <ContactForm />
       <Footer />
