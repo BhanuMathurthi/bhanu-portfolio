@@ -21,26 +21,30 @@ export const skilldatainfo = [
   },
   {
     id: 6,
-    skill: "API",
+    skill: "REST APIs",
   },
   {
     id: 7,
-    skill: "JSON",
+    skill: "REDUX",
   },
   {
     id: 8,
-    skill: "MySQL",
+    skill: "JSON",
   },
   {
     id: 9,
-    skill: "Git",
+    skill: "MySQL",
   },
   {
     id: 10,
-    skill: "Figma",
+    skill: "Git",
   },
   {
     id: 11,
+    skill: "Figma",
+  },
+  {
+    id: 12,
     skill: "Wordpress",
   },
 ];
