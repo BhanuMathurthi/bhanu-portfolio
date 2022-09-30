@@ -62,7 +62,7 @@ export default function Header() {
                     rel="noreferrer"
                   >
                     <FontAwesomeIcon
-                      className="fs-3 text-white px-2 nav-link"
+                      className="fs-3 text-white px-3 nav-link"
                       icon={faLinkedin}
                     />
                   </a>
@@ -74,7 +74,7 @@ export default function Header() {
                     target="_blank"
                   >
                     <FontAwesomeIcon
-                      className="fs-3 text-white px-2 nav-link"
+                      className="fs-3 text-white px-3 nav-link"
                       icon={faGithub}
                     />
                   </a>
