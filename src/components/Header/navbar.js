@@ -15,7 +15,7 @@ export default function Header() {
           className="headernav navbar navbar-expand-lg navbar-dark py-2 fixed-top"
         >
           <div className="container">
-            <a style={{ fontSize: "18px" }} href="!#" className="navbar-brand">
+            <a style={{ fontSize: "18px" }} href="#" className="navbar-brand">
               Bhanu
             </a>
             <button
