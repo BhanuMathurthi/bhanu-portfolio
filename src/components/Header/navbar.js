@@ -12,7 +12,7 @@ export default function Header() {
       >
         <nav
           style={{ backgroundColor: "#042D41" }}
-          className="headernav navbar navbar-expand-lg navbar-dark py-2 fixed-top"
+          className="headernav navbar navbar-expand-lg navbar-dark pt-2 pt-3 pb-2 fixed-top"
         >
           <div className="container">
             <a style={{ fontSize: "18px" }} href="#" className="navbar-brand">

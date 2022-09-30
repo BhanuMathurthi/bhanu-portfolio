@@ -9,7 +9,10 @@ export default function Education() {
             Education
           </h2>
           <div className="">
-            <table className="table table-responsive">
+            <table
+              className="table table-responsive stripes"
+              style={{ width: "400px" }}
+            >
               <thead
                 className="fw-bold"
                 style={{ backgroundColor: "#042D41", color: "white" }}
